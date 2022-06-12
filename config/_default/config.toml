@@ -2,7 +2,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-# baseURL = "https://your_domain.com/"
+baseURL = "https://yawar5.github.io/website/"
+languageCode = "en"
 theme = "congo"
 defaultContentLanguage = "en"
 
