@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Welcome to my personal website"
-#logo = "propic/logo.jpg"
+logo = "propic.jpg"
 description = "This website is aimed at sharing key developments and experiences in my life"
 # copyright = "Copy, _right?_ :thinking_face:"
 
