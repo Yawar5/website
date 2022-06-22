@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://yawar5.github.io/website/sitemap.xml
