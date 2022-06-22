@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Yawar Baloch"
-  image = "propic.jpg"
+  image = "propic/author.jpg"
   headline = "The bigger the dream the bigger the man"
   bio = "I am positive minded person"
   links = [
