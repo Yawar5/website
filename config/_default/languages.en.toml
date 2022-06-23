@@ -5,8 +5,8 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Welcome to my personal website"
-logo = "propic.jpg"
+title = "Yawar's website"
+logo = "img/titlep.jpg"
 description = "This website is aimed at sharing key developments and experiences in my life"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Yawar Baloch"
-  image = "![Profile picture](/propic.jpg 'Profile picture')"
+  image = "img/titlep.jpg"
   headline = "The bigger the dream the bigger the man"
   bio = "I am positive minded person"
   links = [
@@ -34,7 +34,7 @@ dateFormat = "2 January 2006"
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://www.instagram.com/yawar_khosa/" },
+     { instagram = "https://www.instagram.com/yawar_khosa/" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
@@ -56,7 +56,7 @@ dateFormat = "2 January 2006"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-  #    { twitter = "https://twitter.com/YawarBaloch6" },
+     { twitter = "https://twitter.com/YawarBaloch6" },
   #   { whatsapp = "https://wa.me/phone-number" },
      { youtube = "https://www.youtube.com/channel/UCWf3iREuL5U41HNTJtvsIoA" },
   ]
