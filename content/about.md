@@ -1,3 +1,7 @@
 ---
 title: About me
+menu: footer
+description: I am a PhD researcher with a strong interest in knowledge management and organizational learning. In my doctoral research, I am investigating means of improving lessons learned management from a technological and social standpoint. In this regard, I take guidance from project management, systems engineering, information management, and knowledge management literature. For practical exploration and application of my research, I work closely with colleagues from Netherlands Railways and ProRail.  
+
+I hold a master's degree in Mechanical Engineering with a specialization in maintenance and operations from the University of Twente. Moreover, I have a fair amount of study abroad experience as I did my bachelor's in Mechanical Engineering from Politecnico di Torino, Italy. Additionally, I also participated in a semester exchange change program during my bachelor's study, where I studied for one semester at Mississippi state university, USA.
 ---
