@@ -51,6 +51,9 @@ showScrollToTop = true
 [taxonomy]
   showTermCount = true
 
+[footer]
+  showAppearanceSwitcher = true
+
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
