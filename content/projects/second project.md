@@ -1,5 +1,5 @@
 ---
-title: Strategy document for PS (Prudent Students) Charity organisation
+title: Strategy document for PS (Prudent Students) charity organisation
 date:  2022-07-24
 ---
 When, in January 2022, I saw little children going through the rubbish on the streets of Istanbul to collect food scraps, I couldn't help but wonder what role I could play to reduce that child's suffering. Although none of us has a life without problems, it is my humble opinion that seeing people's suffering can help us understand and appreciate what we have even more. Our world is full of such stories and it is very likely that many of us have also struggled in one way or another to get where we are today. 
