@@ -26,6 +26,8 @@ First and foremost, realize that change is the only true constant in life. So, r
 
 Secondly, depending on the situation, change can be uncomfortable at first or great right away. In both scenarios, I encourage you to shorten your timeframe and focus on the present moment. Think of it as a film that has just started. It is still too early to understand how the film will play out metaphorically speaking. So, whether you have had a major setback in your life or have recently graduated and are at the pinnacle of your ambitions, it is wise to shorten your time frame, not worry about the long-term consequences of this change and live in the present moment.
 
+![pic](img/shorten.jpg)
+
 ## Get used to the feeling of change 
 
 Finally, remember this new feeling and get used to it. Life is full of challenges. Today you face this challenge, but tomorrow you may face another. As long as you learn from each challenge and keep working on yourself, life will keep leading you to new horizons. 
