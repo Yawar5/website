@@ -2,7 +2,7 @@
 title: PhD
 date:  2022-10-19
 ---
-I am grateful and humbled to have completed my PhD thesis on the topic *Advancing knowledge management for system integration: Improving the management of lessons learned to enhance organisational learning and railway system performance* last Friday, Oct. 14, 2022.   
+I am grateful and humbled to have completed my PhD on the topic *Advancing knowledge management for system integration: Improving the management of lessons learned to enhance organisational learning and railway system performance* last Friday, 14 October 2022.   
 
 > The video below provides a detailed insight into the topics discussed during my PhD defence and subsequent cermony!
 
