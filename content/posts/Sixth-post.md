@@ -12,7 +12,7 @@ Personally, I tend to be very thoughtful and rational, which can be an advantage
 
 I had such a moment recently when I had to make a career decision between two options. In this case, I had a pretty good idea of one option and liked the general outline of what the position could offer. The other option required a leap of faith and came with a lot of uncertainties. Choosing the first option would have meant developing professionally with the support of people who like you and value what you bring to the table. On the other hand, choosing the second option was, in a metaphorical sense, similar to Casey Neistat, a well-known American Youtuber, [Tarzan method](https://www.youtube.com/watch?v=9Vi7PPResIg&ab_channel=Dansnov1086), and I quote: 
 
-**If Tarzan never let go of the vine that he was swinging from to grab the next one, he would have never gotten to the other side of the jungle. He just would have sat there swinging back and forth... Some day I wont be able to do this. The right time is now. Everytime I took these bigger risks, the opportunity for a bigger payout was always there. Some distance can really make you appreciate what you have**
+*If Tarzan never let go of the vine that he was swinging from to grab the next one, he would have never gotten to the other side of the jungle. He just would have sat there swinging back and forth... Some day I wont be able to do this. The right time is now. Everytime I took these bigger risks, the opportunity for a bigger payout was always there. Some distance can really make you appreciate what you have.*
 
 Nevertheless, my mind and heart were split between the two options and it was very difficult for me to know what I really wanted deep down.
 
