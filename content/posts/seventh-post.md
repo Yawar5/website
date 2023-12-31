@@ -12,7 +12,7 @@ In terms of travel, I was very blessed in 2023. It began with my visit to the ho
 
 This was followed by a family vacation in Northern Pakistan. I did not know which of my acts had pleased the Almighty, but I vividly remember how grateful I felt as I traveled with my parents and sisters through the beautiful and majestic landscapes of Northern Pakistan.
 
-![pic](img/image72.jpg)
+![pic](img/Image72.jpg)
 
 This was followed by a car trip with friends to Strasbourg in France, a conference trip to Sydney Australia, an overnight train trip to Vienna with JongNS board colleagues, a long weekend to Copenhagen to make important decisions, a hike in the Italian Alps, a long weekend in Salzburg and Stockholm and finally a conference visit to Brazil.
 
