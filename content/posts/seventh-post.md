@@ -1,5 +1,6 @@
 ---
 title: Three takeaways from 2023
+date: 2022-31-23
 ---
 The last sun of 2023 will set in a few hours, and I would like to take this moment to reflect and capture some of the most important takeaways of the past year for me. If I had to describe this year in one word, for me it would be ‘Lively’. During the year it didn't seem that impactful, but looking back now, it feels like a lot happened in just one year. The focus here is on summarizing the year in three takeaways that may also be of interest to you (the reader). So let's begin.
 
