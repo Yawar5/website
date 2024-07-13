@@ -10,7 +10,7 @@ While the nature of work and challenge may vary in different work environments, 
 
 The times can be easy or difficult, the challenge can be big or small, success can seem unlikely or guaranteed, in all these situations our mindset and approach makes or breaks us. The world-famous boxer Mohammad Ali once said
 
- *"If my mind can conceive it, if my heart can believe it--then I can achieve it.”*  
+ *"If my mind can conceive it, if my heart can believe it then I can achieve it.”*  
 
 ![pic](img/81.jpg)
 
