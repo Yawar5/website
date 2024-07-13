@@ -10,7 +10,7 @@ While the nature of work and challenge may vary in different work environments, 
 
 The times can be easy or difficult, the challenge can be big or small, success can seem unlikely or guaranteed, in all these situations our mindset and approach makes or breaks us. The world-famous boxer Mohammad Ali once said
 
- *"If my mind can conceive it, if my heart can believe it then I can achieve it.”*  
+> *"If my mind can conceive it, if my heart can believe it then I can achieve it.”*  
 
 ![pic](img/81.jpg)
 
@@ -20,7 +20,7 @@ Society often glorifies comfort and happiness as hallmarks of a successful profe
 
 Aspects such as feeling connected, understood, challenged, independent contribute to their growth and development, and collaboration is a necessary ingredient in this recipe for individual growth. There is profound wisdom in the African proverb
 
- *"If you want to go fast, go alone; but if you want to go far, go together."*
+> *"If you want to go fast, go alone; but if you want to go far, go together."*
 
 ![pic](img/82.jpg)
 
@@ -33,7 +33,7 @@ On the private front, life goes by quickly and there is certainly more to life t
 
 The question of how to achieve this work-life balance is excellently answered by Australian author and entrepreneur Jana Kingsford in the following quote 
 
-*"Balance is not something you find, it's something you create."*
+> *"Balance is not something you find, it's something you create."*
 
 ![pic](img/83.jpg)
 
