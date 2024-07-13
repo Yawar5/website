@@ -1,5 +1,5 @@
 ---
-title: Lessons learned from industry
+title: Lessons learned from industry so far
 date:  2024-07-13
 ---
 It has been two years since my full-time transition from academia to industry. I was involved in industry long before this full transition, during four years of industrial PhD from 2018 to 2022 to be exact, but in the past two years of full-time work in industry, I have learned a lot of new lessons that I want to summarize here in the following three lessons learned.
