@@ -1,6 +1,6 @@
 ---
 title: Lessons learned from industry so far
-date:  2024-07-13
+date:  2024-07-14
 ---
 It has been two years since my full-time transition from academia to industry. I was involved in industry long before this full transition, during four years of industrial PhD from 2018 to 2022 to be exact, but in the past two years of full-time work in industry, I have learned a lot of new lessons that I want to summarize here in the following three lessons learned.
 
@@ -11,7 +11,6 @@ While the nature of work and challenge may vary in different work environments, 
 The times can be easy or difficult, the challenge can be big or small, success can seem unlikely or guaranteed, in all these situations our mindset and approach makes or breaks us. The world-famous boxer Mohammad Ali once said
 
 > *If my mind can conceive it, if my heart can believe it then I can achieve it.*  
-
 
 ![pic](img/81.jpg)
 
