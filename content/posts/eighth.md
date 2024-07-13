@@ -23,7 +23,7 @@ Aspects such as feeling connected, understood, challenged, independent contribut
 
 > *If you want to go fast, go alone; but if you want to go far, go together.*
 
-![pic](img/82.jpg)
+![img](img/82.jpg)
 
 
 ## Lesson #3: Balance between work and private live is crucial.
