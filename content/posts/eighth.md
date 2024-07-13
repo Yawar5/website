@@ -12,7 +12,7 @@ The times can be easy or difficult, the challenge can be big or small, success c
 
 > *If my mind can conceive it, if my heart can believe it then I can achieve it.*  
 
-![pic](img/81.jpg)
+![img](../../assets/img/81.jpg)
 
 
 ## Lesson #2: True joy is in collaborative working.
@@ -23,7 +23,7 @@ Aspects such as feeling connected, understood, challenged, independent contribut
 
 > *If you want to go fast, go alone; but if you want to go far, go together.*
 
-![img](img/82.jpg)
+![img](../../assets/img/82.jpg)
 
 
 ## Lesson #3: Balance between work and private live is crucial.
@@ -36,6 +36,6 @@ The question of how to achieve this work-life balance is excellently answered by
 
 > *Balance is not something you find, it's something you create.*
 
-![pic](img/83.jpg)
+![img](../../assets/img/83.jpg)
 
 I hope these lessons can assist you in approaching your life. In case they resonate with you, and you would like to share your thoughts with feel free to reach out to me. Thank you for your attention! 
