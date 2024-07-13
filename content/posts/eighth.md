@@ -14,6 +14,7 @@ The times can be easy or difficult, the challenge can be big or small, success c
 
 ![pic](img/81.jpg)
 
+img src="{{img/81.jpg}}" 
 
 ## Lesson #2: True joy is in collaborative working.
 
