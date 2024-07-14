@@ -4,7 +4,7 @@
 
 baseURL = "https://yawar5.github.io/website/"
 languageCode = "en"
-theme = "congo"
+theme = "congov2"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
