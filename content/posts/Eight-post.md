@@ -12,14 +12,7 @@ The times can be easy or difficult, the challenge can be big or small, success c
 
 > *If my mind can conceive it, if my heart can believe it then I can achieve it.*  
 
-<iframe
-    width="640"
-    height="480"
-    src="https://github.com/Yawar5/website/blob/c1389ce141221571fe88f3c30035e87ce1ecf388/content/posts/img/81.jpg"
-    frameborder="0"
-    
->
-</iframe>
+![img](81.jpg)
 
 ## Lesson #2: True joy is in collaborative working.
 
