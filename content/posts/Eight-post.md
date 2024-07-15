@@ -14,8 +14,6 @@ The times can be easy or difficult, the challenge can be big or small, success c
 
 ![img](81.jpg)
 
-<img src="/images/81.jpg>" />
-
 ## Lesson #2: True joy is in collaborative working.
 
 Society often glorifies comfort and happiness as hallmarks of a successful professional life. I am no expert in social science, but I have so far encountered one common theme in my professional experience: Collaboration is far better than dissociation and leads to a more joyful work experience and more satisfied teams. When people commit 40 hours a week of their time to a job, earning financial reward is not the only goal that leads to their peace. 
