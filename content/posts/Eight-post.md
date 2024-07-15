@@ -36,4 +36,4 @@ The question of how to achieve this work-life balance is excellently answered by
 
 
 
-I hope these lessons can assist you in approaching your life. In case they resonate with you, and you would like to share your thoughts with feel free to reach out to me. Thank you for your attention. 
+I hope these lessons can assist you in approaching your life. In case they resonate with you, and you would like to share your thoughts with feel free to reach out to me. Thank you for your attention!
