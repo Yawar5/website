@@ -6,20 +6,20 @@ I am pleased to share that we have successfully completed the relief operation f
 
 > Distribution of 40 food bags, 10 mosquito nets, and pre-cooked food boxes on 6 October. Some photos of the distribution of food/mosquito nets are shown below.
 
-![pic](img/12.jpeg)
-![pic](img/13.jpeg)
-![pic](img/14.jpeg)
-![pic](img/16.jpeg)
-![pic](img/17.jpeg)
+![pic](12.jpeg)
+![pic](13.jpeg)
+![pic](14.jpeg)
+![pic](16.jpeg)
+![pic](17.jpeg)
 
 > A free medical camp was set up on 22 October where more than 100 patients received basic medical check-ups. During this camp, medicines for cough, flu, and fever, such as paracetamol and multivitamins, were distributed among the flood victims. Some photos of the medical camp are shown below. 
 
-![pic](img/21.jpeg)
-![pic](img/23.jpeg)
-![pic](img/24.jpeg)
-![pic](img/25.jpeg)
-![pic](img/28.jpeg)
-![pic](img/29.jpeg)
+![pic](21.jpeg)
+![pic](23.jpeg)
+![pic](24.jpeg)
+![pic](25.jpeg)
+![pic](28.jpeg)
+![pic](29.jpeg)
 
 
 Feel free to contact me for more details. Thank you for your support 😊  
