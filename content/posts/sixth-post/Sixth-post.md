@@ -16,7 +16,7 @@ I had such a moment recently when I had to make a career decision between two op
 
 Nevertheless, my mind and heart were split between the two options and it was very difficult for me to know what I really wanted deep down.
 
-![pic](img/6p1.jpeg)
+![pic](6p1.jpeg)
 
 ## My analytical approach
 
@@ -36,7 +36,7 @@ But being an investigative soul, I kept weighing one option against the other un
 
 It is important to realise that there is no good or bad decision and that no option is permanent. You learn from all decisions and the important thing is to make a decision that calms your heart and mind as much as if they weren't even there, and that, in my humble opinion, is the most important sign that you know your gut feeling about something.
 
-![pic](img/6p2.jpeg)
+![pic](6p2.jpeg)
 
 I eventually chose the option that felt **more challenging to me** and have since experienced this calm between mind and heart. So I am confident that I was able to follow my gut feeling. How much I can learn from it remains to be seen, of course, and only time will tell how significant this decision is. 
  

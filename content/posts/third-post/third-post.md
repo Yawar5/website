@@ -20,18 +20,18 @@ Reflecting on some of the life-changing events in my life so far, moving to Ital
 
 First and foremost, realize that change is the only true constant in life. So, rather than approaching half heartily and clinging to old habits and associations, it is in our best interest to actually try to embrace the change with a positive outlook. 
 
-![pic](img/IMG-2278.jpg)
+![pic](IMG-2278.jpg)
 
 ## Shorten your timeframe
 
 Secondly, depending on the situation, change can be uncomfortable at first or great right away. In both scenarios, I encourage you to shorten your timeframe and focus on the present moment. Think of it as a film that has just started. It is still too early to understand how the film will play out metaphorically speaking. So, whether you have had a major setback in your life or have recently graduated and are at the pinnacle of your ambitions, it is wise to shorten your time frame, not worry about the long-term consequences of this change and live in the present moment.
 
-![pic](img/fp3.JPG)
+![pic](fp3.JPG)
 
 ## Get used to the feeling of change 
 
 Finally, remember this new feeling and get used to it. Life is full of challenges. Today you face this challenge, but tomorrow you may face another. As long as you learn from each challenge and keep working on yourself, life will keep leading you to new horizons. 
 
-![pic](img/fp4.JPG)
+![pic](fp4.JPG)
 
 > My take-home message is this: Approach life-changing events with a positive outlook and realise that change is the only true constant in the world. Embracing change and being comfortable with the idea of change can equip us with the right state of mind needed for profound growth.  

@@ -10,13 +10,13 @@ Let's face it, most of you (dear readers) who will come across this post are peo
 
 The first crucial thing I learned was that the *“reward”* is rather more personal than social. Starting from an idea and than going through all the ups and downs of paper writing and publishing process strengthens your mind. You learn that to trust yourself and become more patient. **Having a self belief that you can handle the ups and down of life is probably the best armour one can have** and no matter how you acquire it that is what you need to shape your dreams into reality. You also learn to become more humble and modest because you realize that your success is the result of all the people who supported you in this process. I am grateful to all the support I received and hope to be a good support to people in my social surroundings. Finally, here are two photos of me that I found, for the history books :D (just kidding), to document my personal growth over the years.
 
-![pic](img/fp2.png)
+![pic](fp2.png)
 
 ## Lesson 2: Journey is more important than the destination
 
 When I look back, I remember the stories associated with each of the eight papers. Like when I had two major revisions right before the holidays and had to adjust my focus and go into peak performance mode instead of holiday mode in a matter of days. What I learned is that a challenge brings out the best in you. When the stacks are against you and you are cornered, you can do wonders. There are countless examples in sport where an underdog team ends up winning the championship. The point is that we should start enjoying the journey we are on and not worry too much about the destination. Just like when, on a hike in the Italian Alps, I focused on the next step on this path and got to see amazing views.
 
-![pic](img/fp1.jpg)
+![pic](fp1.jpg)
 
 We are naturally used to associating success with the achievement of milestones. So in my case, the publication of a paper should be a success. While that is partly true, I think the **real success is learning to deal with the stress and time pressure** involved in the publishing process **and developing the necessary skills** to work with your co-authors. If I had not received major revisions and my papers were just accepted after the first submission, I would never have learned how to concentrate and stay calm under extreme time pressure.
 

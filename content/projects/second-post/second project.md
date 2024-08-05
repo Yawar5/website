@@ -28,6 +28,6 @@ The charity intends to join forces to help the underprivileged children of our s
 
 Initially, we want to establish a team of active members that will meet bi-weekly and brainstorm on how to further shape the MAPS strategy for our organisation. Eventually, a board of members will be established and the financial structure of the organisation will be formulated. Criteria for deserving students will also be drawn up and the appropriate applications will be made. Then we will conduct fundraising campaigns and establish transparent and secure money flows. Our goal is to be an actively functioning charitable organisation by August 2023. It is important to note that in order to make this dream a reality, we need to join forces and have people with the right expertise at the table. So, in case you know someone who would like to be involved, please forward this message to them. I will be organising the first online general meeting of the organisation sometime in September 2022.  
 
-![pic](img/IMG-1728.jpg)
+![pic](IMG-1728.jpg)
 
 > Finally, if the concept of this charity organisation appeals to you personally and you would like to be involved in this effort, please fill out this [form](https://forms.gle/HFe3aiTcHnFpWEQs9). Thank you for your attention! 
