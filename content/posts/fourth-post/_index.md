@@ -1,6 +1,6 @@
 ---
 title: What is success in life?
-date:  2022-08-16
+date: 2022-08-16
 ---
 It was my pleasure to have a conversation with [Wilbert Wijns](https://www.linkedin.com/in/wilbert-wijns-0669946/) about the meaning of success in life. Wilbert is an experienced professional with profound industrial experience and at the time of recording this video (2 July 2021) he was a programme manager at the Netherlands Railways. In this video I ask Wilbert what success has meant to him over the years and how he has approached this subject in his life.
 

@@ -1,6 +1,6 @@
 ---
 title: Change can be overwhelming, but transformational change leads you to profound growth
-date:  2022-08-07
+date: 2022-08-07
 ---
 I have been going through quite a few changes lately and I thought it might be good to document my thoughts at this stage. Once you feel comfortable in a particular place or situation, it is very overwhelming when you have to change, voluntarily or involuntarily. It is also important to note that people are different. While some of us find it relatively easy or fun to experience change, others may find it stressful or even frightening. 
 

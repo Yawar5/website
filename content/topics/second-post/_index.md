@@ -1,6 +1,6 @@
 ---
 title: Good habits and Technology
-date:  2022-07-16
+date: 2022-07-16
 ---
 In December 2021, Miki and I discuss his journey to developing good habits and his passion for new technologies in general and artificial intelligence in particular in this video.  
 

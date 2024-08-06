@@ -1,6 +1,6 @@
 ---
 title: PhD
-date:  2022-10-19
+date: 2022-10-19
 ---
 I am grateful and humbled to have completed my PhD on the topic *Advancing knowledge management for system integration: Improving the management of lessons learned to enhance organisational learning and railway system performance* last Friday, 14 October 2022.   
 

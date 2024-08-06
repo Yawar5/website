@@ -1,6 +1,6 @@
 ---
 title: How to get to know your gut feeling?
-date:  2023-08-18
+date: 2023-08-18
 ---
 There is a good chance that we have all heard of gut feeling. As a PhD holder in knowledge management, "gut feeling" was one of the most popular words I used when I had to explain the concept of tacit knowledge. Tacit knowledge refers to the kind of knowledge that is either difficult or, in some cases, impossible to put into words. So I take the challenge and try to put the idea of gut feeling into words by explaining how you can know your gut feeling. 
 

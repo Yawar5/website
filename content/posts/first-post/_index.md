@@ -1,6 +1,6 @@
 ---
 title: Two lessons I learned from writing eight papers
-date:  2022-06-25
+date: 2022-06-25
 ---
 What have I learned from writing eight papers over the past four years? Although this question can be answered from various angles, such as providing a detailed description of the identified research gaps followed by a critical analysis of the methodologies used and results gathered for each of the [eight papers](https://scholar.google.com/citations?user=XRylvckAAAAJ&hl=en&authuser=2), my focus here is rather simple and straightforward. I would like to share with you some rather more personal and somewhat surprising aspects of the writing of the eight papers. So let us begin:
 

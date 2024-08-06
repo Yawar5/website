@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurship
-date:  2022-06-25
+date: 2022-06-25
 ---
 In August 2021, after three hours of hiking, Emile and I discuss his journey to entrepreneurship at a beautiful spot on the Italian-Swiss border in the Alps. Where I ask him three questions: 1) What drove him to become an entrepreneur? 2) What challenges does he see for himself in the coming time? 3) What advice or recommendations does he have for others? 
 

@@ -1,6 +1,6 @@
 ---
 title: Five principles for a great travelling experience
-date:  2022-07-08
+date: 2022-07-08
 ---
 When our plane was about to land at Bucharest International Airport, I was full of all kinds of questions and prejudices about Romania. Having spent only four days in the country and travelled a little, I am filled with appreciation and admiration for this country. It is worth noting that I have seen this pattern repeat itself so many times: **we are filled with all kinds of wrong assumptions and prejudices about countries all over the world, but when we actually visit them, we are pleasantly surprised by their hospitality, openness and cultural values**. I have come to the profound realisation that materialistic development does not always guarantee hospitality and cohesion in a society and that today's world is a complex place from which we, as individuals, can learn a lot from each culture. 
 
