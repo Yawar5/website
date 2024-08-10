@@ -20,4 +20,4 @@ I am grateful and humbled to have completed my PhD on the topic *Advancing knowl
 
 I am filled with great memories of this day. My special thanks go to the graduation committee for reviewing my work and awarding me the doctoral degree. I would also like to thank all my family members, friends and colleagues (from University of Twente, Netherlands Railways and ProRail) who participated live and digitally in the graduation ceremony.
 
-![img](1yb.jpg)
+![img](1yb.JPG)
