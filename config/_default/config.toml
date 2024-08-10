@@ -4,6 +4,7 @@
 
 baseURL = "https://yawar5.github.io/website/"
 languageCode = "en"
+title = "Yawar's website"
 theme = "congo"
 defaultContentLanguage = "en"
 
