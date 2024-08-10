@@ -42,7 +42,7 @@ showScrollToTop = true
 [list]
   showBreadcrumbs = false
   showSummary = false
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = true
 
 [sitemap]
