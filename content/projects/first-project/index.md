@@ -18,6 +18,6 @@ I am grateful and humbled to have completed my PhD on the topic *Advancing knowl
 
 > Feel free to check out my [PhD thesis](https://ris.utwente.nl/ws/portalfiles/portal/285948603/PhD_thesis_Yawar_Abbas_final_purecopy.pdf) if you want to know more about my research. 
 
-I am filled with great memories of this day. My special thanks go to the graduation committee for reviewing my work and awarding me the doctoral degree. I would also like to thank all my family members, friends and colleagues (from University of Twente, Netherlands Railways and ProRail) who participated live and digitally in the graduation ceremony.
-
 ![img](1yb.JPG)
+
+I am filled with great memories of this day. My special thanks go to the graduation committee for reviewing my work and awarding me the doctoral degree. I would also like to thank all my family members, friends and colleagues (from University of Twente, Netherlands Railways and ProRail) who participated live and digitally in the graduation ceremony.
