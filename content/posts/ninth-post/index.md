@@ -8,7 +8,7 @@ While an entire year has passed by since I posted [three takeaways from 2023](ht
 
 With limited time on this planet, one’s family rightly should be among the central pillars when it comes to prioritising and dedicating one’s time in a prudent manner. Spending time with family members, helping and supporting them in hours of need, and actively ensuring that the family members are an integral part of our day to day lives is paramount not just our own well being but also paves the way for creating a compassionate society. 
 
-While my parents visited me here in Europe for the first time in twelve years, I experienced the joy of simple things such as having breakfast together, visiting cities together and simple walks in the evening. This year reminded me that while we stay focused and determined in personal growth it is incomplete unless strengthening family bonds is part of that equation. Whatever your challenges might be when it comes to your specific case, ensuring that you strengthen your family bond from one year to another and dedicate enough time in a year to spend time together is a key takeaway for me from this year. 
+This year my parents visited me here in Europe for the first time in twelve years, I experienced the joy of simple things such as having breakfast together, visiting cities together and simple walks in the evening. This reminded me that while we stay focused and determined in personal growth it is incomplete unless strengthening family bonds is part of that equation. Whatever your challenges might be when it comes to your specific case, ensuring that you strengthen your family bond from one year to another and dedicate enough time in a year to spend time together is a key takeaway for me from this year. 
 
 
 ![img](311204.jpg)
