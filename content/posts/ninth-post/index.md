@@ -4,7 +4,7 @@ date: 2024-12-31
 ---
 While an entire year has passed by since I posted [three takeaways from 2023](https://yawar5.github.io/website/posts/seventh-post/) covering the aspects of travelling, taking risk, having a positive attitude towards life, I find myself asking once again what the learning from this year (2024) are. So, with this post I would like to document them in following three takeaways (3Fs) from 2024. 
 
-## 1st takeaway: Family.
+## 1st takeaway: Family
 
 With limited time on this planet, one’s family rightly should be among the central pillars when it comes to prioritising and dedicating one’s time in a prudent manner. Spending time with family members, helping and supporting them in hours of need, and actively ensuring that the family members are an integral part of our day to day lives is paramount not just our own well being but also paves the way for creating a compassionate society. 
 
