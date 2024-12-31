@@ -24,7 +24,7 @@ As you grow old, you become stricter in your likes and dislikes and in some stra
 
 ## 3rd takeaway: Fortitude
 
-Allah states in Quran
+Allah almighty states in Quran
 > *We have certainly created man into hardship.(90:4)*   
 
 Important is to face these hardships in faithful, firm and steadfast manner. 
