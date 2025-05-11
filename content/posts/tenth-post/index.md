@@ -1,5 +1,5 @@
 ---
-title: "🕊️ Bridging Borders: Reflections on recent Pakistan - India Conflict"
+title: "🕊️ Bridging Borders: Reflections on recent Pakistan - India conflict"
 date: 2025-05-11
 ---
 
@@ -89,12 +89,9 @@ So let us defend peace like we would defend our homeland. Let us stand with dign
 
 I want to end by a profound quote from Prophet Muhammad ﷺ that beautifully reflects the spirit of this blog:
 
-> “Shall I not tell you what is better than fasting, prayer, and charity?”
-“It is reconciling between people. Verily, spoiling relations is the shaver (i.e., destroys faith).”
+> “Shall I not tell you what is better than fasting, prayer, and charity?”...“It is reconciling between people. Verily, spoiling relations is the shaver (i.e., destroys faith).”
 > — Prophet Muhammad ﷺ (Sunan Abi Dawud 4919, Hasan) 
 
 ---
 
 *Thank you for reading. I welcome your thoughts and reflections.*
-
-
