@@ -9,14 +9,14 @@ As I stood on my balcony in the Netherlands on a quiet Saturday evening, the sun
 
 Born and raised there for 20 years before studying in Italy and building a life in the Netherlands, I’ve come to understand that *“home”* is not one place—it’s layered. And while I may now live across continents, Pakistan will always live in me.
 
-These years abroad have added perspectives, but my moral compass—shaped by my culture, faith, and people—still points to where I came from. That’s what gives me clarity when I reflect on moments like the recent escalation between India and Pakistan. With this blog post, I would like to share some thoughts on this conflict and draw your attention to the following quote:
+These years abroad have added perspectives, but my moral compass—shaped by my culture, faith, and people—still points to where I came from. That’s what gives me clarity when I reflect on moments like the recent escalation between India and Pakistan. With this blog post, I would like to share some thoughts on this conflict and touch on the themes of the manipulative power of media, roots of conflict, human cost and empathy, and a call for piece and dialogue. So lets begin:
 
 > “Peace cannot be kept by force; it can only be achieved by understanding.”  
 > — Albert Einstein
 
 ![India and Pakistan Flags](flags.jpg)
 
-I will touch on the themes of the manipulative power of media, roots of conflict, human cost and empathy, and a call for piece and dialogue. So lets begin:
+
 ---
 
 # 📺 The Distorting Lens of the Media
