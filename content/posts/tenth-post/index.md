@@ -12,8 +12,7 @@ Born and raised there for 20 years before studying in Italy and building a life 
 These years abroad have added perspectives, but my moral compass—shaped by my culture, faith, and people—still points to where I came from. That’s what gives me clarity when I reflect on moments like the recent escalation between India and Pakistan. At the core of it, I would like to share some thoughts on this conflict and draw your attention to the following quote:
 
 > “Peace cannot be kept by force; it can only be achieved by understanding.”  
-> — Albert Einstein
-
+> —
 
 ![India and Pakistan Flags](flags.jpg)
 
@@ -91,7 +90,7 @@ I want to end by a profound quote from Prophet Muhammad ﷺ that beautifully ref
 
 “Shall I not tell you what is better than fasting, prayer, and charity?”
 “It is reconciling between people. Verily, spoiling relations is the shaver (i.e., destroys faith).”
-— Prophet Muhammad ﷺ (Sunan Abi Dawud 4919, Hasan)
+— Prophet Muhammad ﷺ (Sunan Abi Dawud 4919, Hasan) 
 
 ---
 
