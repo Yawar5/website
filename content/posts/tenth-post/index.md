@@ -1,5 +1,5 @@
 ---
-title: "🕊️ Bridging Borders: Reflections on recent Pakistan - India Conflict and the Strength in Peace"
+title: "🕊️ Bridging Borders: Reflections on recent Pakistan - India Conflict"
 date: 2025-05-11
 ---
 
@@ -35,7 +35,7 @@ What’s worse: media narratives aren’t neutral. Depending on what you consume
 
 India and Pakistan—siblings in geography and history—have walked separate paths since 1947. But the shadow of Partition and the unresolved issue of Kashmir still haunt the region.
 
-When India revoked Article 370 of its constitution unilaterally which which revoled the special status of Jammu and Kashmir, it triggered resentment and resistance. That reaction was human—and predictable. Suppressing voices breeds unrest. And yet, those in power often forget: the land doesn’t just belong to governments—it belongs to people. And it is dialogue and diplomacy that settles such issues and not force and voilence.
+When India revoked Article 370 of its constitution unilaterally revoking the special status of Jammu and Kashmir, it triggered resentment and resistance. That reaction was human—and predictable. Suppressing voices breeds unrest. And yet, those in power often forget: the land doesn’t just belong to governments—it belongs to people. And it is dialogue and diplomacy that settles such issues and not force and voilence.
 
 > “An eye for an eye only ends up making the whole world blind.”  
 > — Mahatma Gandhi
@@ -89,9 +89,9 @@ So let us defend peace like we would defend our homeland. Let us stand with dign
 
 I want to end by a profound quote from Prophet Muhammad ﷺ that beautifully reflects the spirit of this blog:
 
-“Shall I not tell you what is better than fasting, prayer, and charity?”
+> “Shall I not tell you what is better than fasting, prayer, and charity?”
 “It is reconciling between people. Verily, spoiling relations is the shaver (i.e., destroys faith).”
-— Prophet Muhammad ﷺ (Sunan Abi Dawud 4919, Hasan) 
+> — Prophet Muhammad ﷺ (Sunan Abi Dawud 4919, Hasan) 
 
 ---
 
