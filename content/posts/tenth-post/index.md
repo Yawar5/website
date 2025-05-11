@@ -1,9 +1,9 @@
 ---
-title: "Bridging Borders: Reflections on recent Pakistan - India Conflict and the Strength in Peace"
+title: "🕊️ Bridging Borders: Reflections on recent Pakistan - India Conflict and the Strength in Peace"
 date: 2025-05-11
 ---
 
-# Introduction: Home Beyond Borders
+# 🏡 Introduction: Home Beyond Borders
 
 As I stood on my balcony in the Netherlands on a quiet Saturday evening, the sun warmed my skin while my thoughts drifted to Pakistan.
 
@@ -19,7 +19,7 @@ These years abroad have added perspectives, but my moral compass—shaped by my 
 I will touch on the themes of the manipulative power of media, roots of conflict, human cost and empathy, and a call for piece and dialogue. So lets begin:
 ---
 
-# The Distorting Lens of the Media
+# 📺 The Distorting Lens of the Media
 
 In the digital age, news travels fast—but not always deep. Every few seconds, we’re bombarded with updates. The brain tries to keep up, but clarity often drowns in noise.
 
@@ -30,7 +30,7 @@ What’s worse: media narratives aren’t neutral. Depending on what you consume
 
 ---
 
-#  Historical Roots and the Responsibility of Legacy
+# 🕰️ Historical Roots and the Responsibility of Legacy
 
 India and Pakistan—siblings in geography and history—have walked separate paths since 1947. But the shadow of Partition and the unresolved issue of Kashmir still haunt the region.
 
@@ -43,7 +43,7 @@ When India revoked Article 370 unilaterally, it triggered resentment and resista
 
 ---
 
-# Human Cost and the Dignity of All People
+# 👥 Human Cost and the Dignity of All People
 
 There’s one truth that should rise above all political noise: on both sides of the border, there are people who love their land, cherish their families, and want peace.
 
@@ -56,7 +56,7 @@ And yet, in times of tension, common people are forced into enemy roles—by pol
 
 ---
 
-# Wisdom and Strength in Response
+# ⚖️ Wisdom and Strength in Response
 
 Two weeks ago, a horrific attack in Kashmir left innocent tourists dead. That act was wrong and deserves condemnation, full stop.
 
@@ -71,7 +71,7 @@ Yet, strength is not the opposite of peace. Strength is choosing dialogue when v
 
 ---
 
-# Conclusion: A Shared Duty to Rise Higher
+# 🌍 Conclusion: A Shared Duty to Rise Higher
 
 Peace is not weakness. It is wisdom. It is the recognition that despite our flags and differences, we are sons and daughters of the same soil.
 
