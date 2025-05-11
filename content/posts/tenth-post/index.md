@@ -62,7 +62,7 @@ Two weeks ago, a horrific attack in Kashmir left innocent tourists dead. That ac
 
 But what followed—an airstrike, retaliation, blame, escalation—threatened to spiral. Not because one side is always wrong or the other always right, but because both were reacting from pain, pride and pressure.
 
-Let’s be clear: when a nation’s honor, dignity, or land is threatened, it must stand up. There is strength in defending what’s sacred. And for many of us especially Muslims, the words *“la ilaha illAllah”* are not just a statement of faith—they are a source of unshakable resilience, strength, and dignity.
+Let us be clear: when a nation’s honor, dignity, or land is threatened, it must stand up. There is strength in defending what’s sacred. And for many of us especially Muslims, the words *“la ilaha illAllah”* are not just a statement of faith—they are a source of unshakable resilience, strength, and dignity.
 
 Yet, strength is not the opposite of peace. Strength is choosing dialogue when violence is easy. Strength is standing firm without losing compassion. And lets remember that:
 
