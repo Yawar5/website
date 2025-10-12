@@ -27,7 +27,7 @@ Italy, with its beautiful landscapes, reminded me how good it feels to be physic
  
 ## Faith and limits
 
-In Saudi, I remembered a line from Imam Ali: “Main nay apnay iradoon kay tootnay se Khuda ko pehchana.” Translated roughly into: I have known God through the breaking of my own plans. 
+In Saudi, I remembered a line from Imam Ali: **Main nay apnay iradoon kay tootnay se Khuda ko pehchana.** Translated roughly into: I have known God through the breaking of my own plans. 
 
 The fish can’t always see the ocean; it only knows the water it’s given. But the Provider knows the ocean. Trusting that is part of growing.
  
@@ -35,12 +35,13 @@ The fish can’t always see the ocean; it only knows the water it’s given. But
 
 ## Commitments that matter
 
-Some lessons are practical — work with devotion, build better routines, travel more, stay healthy. But others are softer, deeper:
-•	Be kind, not just nice.
-•	Keep your inner and outer worlds the same.
-•	Honor commitments.
-•	Don’t live to please others; live with heart.
-•	Involve Allah in your decisions.
+Some lessons are practical — work with devotion, build better routines, travel more, stay healthy. 
+But others are softer, deeper:
+> *Be kind, not just nice.*
+> *Keep your inner and outer worlds the same.*
+> *Honor commitments.*
+> *Don’t live to please others; live with heart.*
+> *Involve Allah in your decisions.*
 
 Travelling has a way of making everything clearer. The noise fades, and what remains are the few things that truly matter — faith, family, health, purpose, and gratitude.
 The world is wide, but the things that anchor me are simple.
