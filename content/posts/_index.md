@@ -1,6 +1,6 @@
 ---
 title: Three Takeaways from 2025
-date: 2025-12-28
+date: 2025-28-12
 ---
 It's December 28th, and once again I find myself drawn to pause—to reflect, document, be grateful, and strategize for the future. As I've done in recent years, this year too I've revisited my reflections from the past years: 2023 was all about gratitude for travel experiences, embracing risks, and developing a positive mindset; 2024 was about family, friends, and happiness. Seeing how these themes shaped my year and shaped me into where I am today reminds me how valuable this reflection is.
 
