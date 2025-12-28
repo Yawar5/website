@@ -1,6 +1,6 @@
 ---
 title: "Blogs"
-description: "A place where I document my thoughts and reflections in form of blog posts."
+description: "A place where I document my thoughts and reflections in form of blog posts"
 cascade:
   showReadingTime: false
 ---
